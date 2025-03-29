@@ -50,6 +50,7 @@ pinout:
   uio[2]: "in_valid_b" # mapped to in_valid_b
   uio[3]: "clk"        # mapped to clk
   uio[4]: "reset"      # mapped to reset
+  uio[5]: "new_pin"    # Add the missing pin here
 
 # Do not change!
 yaml_version: 6
