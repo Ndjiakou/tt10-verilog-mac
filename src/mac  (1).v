@@ -1,7 +1,7 @@
 
 `timescale 1ns / 10ps
 
-module mac(in_a, in_b, in_valid_a, in_valid_b, clk, 
+module  tt_um_mac_test (in_a, in_b, in_valid_a, in_valid_b, clk, 
 			reset, mac_out, out_valid);
 
 //input output declartion			
