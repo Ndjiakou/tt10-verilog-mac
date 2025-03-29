@@ -30,7 +30,7 @@ module tb ();
   end
 
   // Instantiate the design (top-level module)
-  mac_test user_project (
+  tt_um_mac_test user_project (
     .rst_n(rst_n),      // Active low reset
     .sel(sel),          // Select signal to choose the test mode
     .ui_in(ui_in),      // Input pins
